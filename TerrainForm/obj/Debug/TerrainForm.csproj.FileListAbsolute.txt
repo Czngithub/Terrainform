@@ -1,0 +1,70 @@
+D:\vs workspace\DirectxText\TerrainForm\TerrainForm\bin\Debug\TerrainForm.exe.config
+D:\vs workspace\DirectxText\TerrainForm\TerrainForm\bin\Debug\TerrainForm.exe
+D:\vs workspace\DirectxText\TerrainForm\TerrainForm\bin\Debug\TerrainForm.pdb
+D:\vs workspace\DirectxText\TerrainForm\TerrainForm\bin\Debug\Microsoft.DirectX.Direct3D.dll
+D:\vs workspace\DirectxText\TerrainForm\TerrainForm\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+D:\vs workspace\DirectxText\TerrainForm\TerrainForm\bin\Debug\Microsoft.DirectX.dll
+D:\vs workspace\DirectxText\TerrainForm\TerrainForm\bin\Debug\Microsoft.DirectX.xml
+D:\vs workspace\DirectxText\TerrainForm\TerrainForm\bin\Debug\Microsoft.DirectX.Direct3D.xml
+D:\vs workspace\DirectxText\TerrainForm\TerrainForm\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+D:\vs workspace\DirectxText\TerrainForm\TerrainForm\obj\Debug\TerrainForm.Properties.Resources.resources
+D:\vs workspace\DirectxText\TerrainForm\TerrainForm\obj\Debug\TerrainForm.csproj.GenerateResource.Cache
+D:\vs workspace\DirectxText\TerrainForm\TerrainForm\obj\Debug\TerrainForm.exe
+D:\vs workspace\DirectxText\TerrainForm\TerrainForm\obj\Debug\TerrainForm.pdb
+D:\vs workspace\DirectxText\TerrainForm\TerrainForm\obj\Debug\TerrainForm.csprojResolveAssemblyReference.cache
+E:\System RD-DKAR\TerrainForm\TerrainForm\bin\Debug\TerrainForm.exe.config
+E:\System RD-DKAR\TerrainForm\TerrainForm\obj\Debug\TerrainForm.exe
+E:\System RD-DKAR\TerrainForm\TerrainForm\obj\Debug\TerrainForm.pdb
+E:\System RD-DKAR\TerrainForm\TerrainForm\bin\Debug\TerrainForm.exe
+E:\System RD-DKAR\TerrainForm\TerrainForm\bin\Debug\TerrainForm.pdb
+E:\System RD-DKAR\TerrainForm\TerrainForm\bin\Debug\Microsoft.DirectX.Direct3D.dll
+E:\System RD-DKAR\TerrainForm\TerrainForm\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+E:\System RD-DKAR\TerrainForm\TerrainForm\bin\Debug\Microsoft.DirectX.dll
+E:\System RD-DKAR\TerrainForm\TerrainForm\bin\Debug\Microsoft.DirectX.xml
+E:\System RD-DKAR\TerrainForm\TerrainForm\bin\Debug\Microsoft.DirectX.Direct3D.xml
+E:\System RD-DKAR\TerrainForm\TerrainForm\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+E:\System RD-DKAR\TerrainForm\TerrainForm\obj\Debug\TerrainForm.csprojResolveAssemblyReference.cache
+E:\System RD-DKAR\TerrainForm\TerrainForm\obj\Debug\TerrainForm.Properties.Resources.resources
+E:\System RD-DKAR\TerrainForm\TerrainForm\obj\Debug\TerrainForm.csproj.GenerateResource.Cache
+E:\System RD-DKAR\TerrainForm\TerrainForm\obj\Debug\TerrainForm.Form1.resources
+F:\TerrainForm\TerrainForm\bin\Debug\TerrainForm.exe.config
+F:\TerrainForm\TerrainForm\bin\Debug\TerrainForm.exe
+F:\TerrainForm\TerrainForm\bin\Debug\TerrainForm.pdb
+F:\TerrainForm\TerrainForm\bin\Debug\Microsoft.DirectX.Direct3D.dll
+F:\TerrainForm\TerrainForm\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+F:\TerrainForm\TerrainForm\bin\Debug\Microsoft.DirectX.dll
+F:\TerrainForm\TerrainForm\obj\Debug\TerrainForm.Form1.resources
+F:\TerrainForm\TerrainForm\obj\Debug\TerrainForm.Properties.Resources.resources
+F:\TerrainForm\TerrainForm\obj\Debug\TerrainForm.csproj.GenerateResource.cache
+F:\TerrainForm\TerrainForm\obj\Debug\TerrainForm.csproj.CoreCompileInputs.cache
+F:\TerrainForm\TerrainForm\obj\Debug\TerrainForm.csproj.CopyComplete
+F:\TerrainForm\TerrainForm\obj\Debug\TerrainForm.exe
+F:\TerrainForm\TerrainForm\obj\Debug\TerrainForm.pdb
+F:\TerrainForm\TerrainForm\obj\Debug\TerrainForm.csprojAssemblyReference.cache
+F:\TerrainForm\TerrainForm\bin\Debug\Microsoft.DirectX.DirectDraw.dll
+D:\TerrainForm\TerrainForm\bin\Debug\TerrainForm.exe.config
+D:\TerrainForm\TerrainForm\bin\Debug\TerrainForm.exe
+D:\TerrainForm\TerrainForm\bin\Debug\TerrainForm.pdb
+D:\TerrainForm\TerrainForm\obj\Debug\TerrainForm.Form1.resources
+D:\TerrainForm\TerrainForm\obj\Debug\TerrainForm.Properties.Resources.resources
+D:\TerrainForm\TerrainForm\obj\Debug\TerrainForm.csproj.GenerateResource.cache
+D:\TerrainForm\TerrainForm\obj\Debug\TerrainForm.csproj.CoreCompileInputs.cache
+D:\TerrainForm\TerrainForm\obj\Debug\TerrainForm.csproj.CopyComplete
+D:\TerrainForm\TerrainForm\obj\Debug\TerrainForm.exe
+D:\TerrainForm\TerrainForm\obj\Debug\TerrainForm.pdb
+D:\TerrainForm\TerrainForm\obj\Debug\TerrainForm.csprojAssemblyReference.cache
+D:\TerrainForm\TerrainForm\bin\Debug\Microsoft.DirectX.Direct3D.dll
+D:\TerrainForm\TerrainForm\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+D:\TerrainForm\TerrainForm\bin\Debug\Microsoft.DirectX.DirectDraw.dll
+D:\TerrainForm\TerrainForm\bin\Debug\Microsoft.DirectX.dll
+C:\Users\yulanli\Desktop\TerrainForm\TerrainForm\bin\Debug\TerrainForm.exe.config
+C:\Users\yulanli\Desktop\TerrainForm\TerrainForm\bin\Debug\TerrainForm.exe
+C:\Users\yulanli\Desktop\TerrainForm\TerrainForm\bin\Debug\TerrainForm.pdb
+C:\Users\yulanli\Desktop\TerrainForm\TerrainForm\obj\Debug\TerrainForm.Form1.resources
+C:\Users\yulanli\Desktop\TerrainForm\TerrainForm\obj\Debug\TerrainForm.Properties.Resources.resources
+C:\Users\yulanli\Desktop\TerrainForm\TerrainForm\obj\Debug\TerrainForm.csproj.GenerateResource.cache
+C:\Users\yulanli\Desktop\TerrainForm\TerrainForm\obj\Debug\TerrainForm.csproj.CoreCompileInputs.cache
+C:\Users\yulanli\Desktop\TerrainForm\TerrainForm\obj\Debug\TerrainForm.csproj.CopyComplete
+C:\Users\yulanli\Desktop\TerrainForm\TerrainForm\obj\Debug\TerrainForm.exe
+C:\Users\yulanli\Desktop\TerrainForm\TerrainForm\obj\Debug\TerrainForm.pdb
+C:\Users\yulanli\Desktop\TerrainForm\TerrainForm\obj\Debug\TerrainForm.csprojAssemblyReference.cache
